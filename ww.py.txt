@@ -1,0 +1,30 @@
+
+x=input("print anything you want on the screen:")
+print(x)
+
+#addition of two string
+x="AB"
+y="MC"
+z=x+y
+print(z)
+
+#enter 3 variable 
+print("enter these three information")
+p=input("name:")
+q=int(input ("phno:")
+r=input("password:")
+print("%s %d %s"%(p,q,r))
+
+#print let get started 
+print("ok now let's get started")
+
+#print following value using placeholders
+s="acadview"
+course="python"
+fees="6000"
+print("welcome to "+S+" where we teach "+course+" for only "+str(fees)+" rupees")
+
+#bonus question
+x=100000
+y="Captain america"
+print("%d %s"%(x,y))
